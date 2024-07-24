@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280338531842",
+    "project_id": "efficient-d35fb",
+    "storage_bucket": "efficient-d35fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280338531842:android:1b71fbe186618752b2c91b",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL89axhTeNNCb2uSBDFz18osWc4nWTHN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
